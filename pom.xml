@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>test-module</artifactId>
-    <version>1.0-rc-SNAPSHOT</version>
+    <version>1.1-rc-SNAPSHOT</version>
 
     <build>
         <plugins>
